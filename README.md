@@ -40,4 +40,4 @@ Program counts number of:
   3. *Cache Hits*
   4. *Cache Misses*  
 
-Note that a "read" is to simulate when the cache must go to "main memory" to get the dat it missed on
+Note that a "read" is to simulate when the cache must go to "main memory" to get the data it missed on
